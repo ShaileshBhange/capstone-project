@@ -1,1 +1,1 @@
-# capstone-project
+# Virtual-Makeup-Try-On
